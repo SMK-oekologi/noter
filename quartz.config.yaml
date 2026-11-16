@@ -197,7 +197,7 @@ plugins:
     enabled: true
     options:
       links:
-        Praktisk Økologi: https://praktiskoekologi.dk
+        Praktisk Økologi: https://oekologi.dk
         Bidrag på GitHub: https://github.com/SMK-oekologi/noter
     layout:
       position: footer

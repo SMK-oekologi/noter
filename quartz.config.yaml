@@ -6,7 +6,7 @@ configuration:
   enableSPA: true
   enablePopovers: true
   prefetch: viewport
-  locale: nb-NO # Quartz har ingen dansk oversættelse endnu; norsk bokmål er tættest på
+  locale: da-DK # dansk oversættelse lægges ind ved bygning, se .github/quartz-dansk/dansk.mjs
   baseUrl: smk-oekologi.github.io/noter
   ignorePatterns:
     - private
@@ -181,6 +181,8 @@ plugins:
       group: toolbar
   - source: "@quartz-community/breadcrumbs"
     enabled: true
+    options:
+      rootName: Forside
     layout:
       position: beforeBody
       priority: 5

@@ -53,6 +53,10 @@ jobs:
           cp ../noter/quartz.config.yaml quartz.config.yaml
           npx quartz plugin install
 
+      - name: Læg dansk oversættelse ind
+        working-directory: quartz
+        run: node ../noter/.github/quartz-dansk/dansk.mjs .
+
       - name: Byg siden
         working-directory: quartz
         run: npx quartz build -d ../noter -o ../public

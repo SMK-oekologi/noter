@@ -47,3 +47,4 @@ Alt her er offentligt. Skriv ikke adresser, telefonnumre eller andet privat.
 
 - [quartz.config.yaml](quartz.config.yaml) styrer hjemmesidens titel, farver og opbygning. Se [Quartz' dokumentation](https://quartz.jzhao.xyz/configuration).
 - [.github/workflows/deploy.yml](.github/workflows/deploy.yml) bygger siden med [Quartz 5](https://quartz.jzhao.xyz). Versionen står øverst i filen.
+- [.github/quartz-dansk/dansk.mjs](.github/quartz-dansk/dansk.mjs) indeholder den danske oversættelse af menuer og knapper, som Quartz ikke selv har. Det er her, teksterne rettes. Ved en opgradering af Quartz bør man tjekke, at bygningen stadig lykkes, og at menuerne stadig er danske.

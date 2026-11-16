@@ -13,3 +13,6 @@ oprettet: 2026-11-03
 - **I kålbedet:** holder svampene i live i et år, hvor hovedafgrøden ikke kan.
 - **Pas på:** gulerod og pastinak, som taber konkurrencen.
 - God i permanente kanter som reservoir af svampe.
+
+
+Jeg tror vi skal have noget om at det er svært at fjerne igen hvis man durker nodig da det er et voldsomt rodnetværk

@@ -4,7 +4,7 @@ title: Havenetværkets noter
 
 # Havenetværkets noter
 
-Her samler vi i havenetværket under Praktisk Økologi det, vi ved og lærer om at dyrke køkkenhave. Noterne er skrevet af deltagerne og bliver løbende rettet og udbygget.
+Her samler vi noter vi laver i forbindelse med havenetværket  [Sjællands mad- og køkkenhavenetværk](https://oekologi.dk/grupper/hornsherred/) under [Praktisk Økologi](https://oekologi.dk/) det, vi ved og lærer om at dyrke køkkenhave. Noterne er skrevet af deltagerne og bliver løbende rettet og udbygget.
 
 ## Emner
 

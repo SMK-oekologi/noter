@@ -16,5 +16,8 @@ oprettet: 2026-11-03
 - McGee m.fl. 1997. *Survival of propagules of arbuscular mycorrhizal fungi in soils in eastern Australia used to grow cotton.* New Phytologist 135(4): 773–780. https://www.cambridge.org/core/product/CCF864E56470348F2C306E18906C8FD6
 - Logi, Sbrana & Giovannetti 1998. *Cellular events involved in survival of individual arbuscular mycorrhizal symbionts growing in the absence of the host.* Applied and Environmental Microbiology 64(9): 3473–3479. https://pmc.ncbi.nlm.nih.gov/articles/PMC106749/
 - Wagner m.fl. 2001. *Long-term survival of Glomus claroideum propagules from soil pot cultures under simulated conditions.* Mycologia 93(5): 815–820.
+- Jakobsen, Abbott & Robson 1992. *External hyphae of vesicular-arbuscular mycorrhizal fungi associated with Trifolium subterraneum L. 1. Spread of hyphae and phosphorus inflow into roots.* New Phytologist 120: 371–380. https://orbit.dtu.dk/en/publications/external-hyphae-of-vesicular-arbuscular-mycorrhizal-fungi-associa/
+- Miller, Reinhardt & Jastrow 1995. *External hyphal production of vesicular-arbuscular mycorrhizal fungi in pasture and tallgrass prairie communities.* Oecologia 103: 17–23. https://link.springer.com/doi/10.1007/BF00328420
+- Smith, Jakobsen, Grønlund & Smith 2011. *Roles of arbuscular mycorrhizas in plant phosphorus nutrition.* Plant Physiology 156: 1050–1057. https://pmc.ncbi.nlm.nih.gov/articles/PMC3135927
 
 Note: Resten er generel faglig viden fra en samtale med Claude (28. oktober 2026). Den er ikke kildebelagt punkt for punkt.

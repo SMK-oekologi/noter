@@ -39,6 +39,19 @@ For haven betyder det, at én vinter med bar jord ikke slår svampen ihjel, men 
 - **Planten giver energi** i form af sukker og fedtstoffer. AM-svampe kan ikke selv lave fedtsyrer, så de er helt afhængige af værtsplanten.
 - **Svampen giver næringsstoffer**, først og fremmest fosfor, men også zink, kobber og lidt kvælstof. Fosfor bevæger sig meget langsomt i jorden, og hyferne når ud i et langt større jordvolumen end rødderne.
 
+## Hvor meget mere jord når hyferne?
+
+**Længde.** Hyferne er meget tyndere end rødderne. En fin rod er 0,2–0,5 mm tyk, en hyfe kun 0,002–0,02 mm. For det samme kulstof kan planten derfor få langt mere længde og overflade som hyfer end som rødder. I en amerikansk prærie og en græsmark blev der målt op til 111 og 81 meter hyfer pr. kubikcentimeter jord (Miller m.fl. 1995). Det er græsarealer, der ikke er blevet forstyrret. I en køkkenhave, hvor jorden bearbejdes, er tallet lavere.
+
+**Rækkevidde.** Fosfor bevæger sig næsten ikke i jorden. En rod tømmer kun et tyndt lag jord omkring sig, typisk omkring 1 mm eller cirka så langt som rodhårene. Bagefter står den i en fosforfattig skal. Hyferne vokser ud over den skal og kan hente fosfor flere centimeter fra roden (Smith m.fl. 2011). Hvor langt de når, afhænger af svampearten. I et forsøg med jordkløver holdt én svampeart en jævn tæthed af hyfer helt ud til 7–11 cm fra roden, mens en anden arts hyfer hurtigt blev færre med afstanden. Den svamp, der nåede længst ud, gav langt den største fosforoptagelse (Jakobsen m.fl. 1992).
+
+Man kan tænke på det sådan: roden afsøger et rør på et par millimeter omkring sig, mens hyferne afsøger et rør på flere centimeter.
+
+**Hvornår betyder det mest?**
+- Når der er lidt tilgængeligt fosfor i jorden. Ved meget fosfor danner planten mindre svamp (se [[Fosfor og mykorrhiza]]).
+- Hos planter med grove rødder og få rodhår, fx løg, porre og majs. Planter med fine, forgrenede rødder og lange rodhår har mindre gavn af svampen (Smith m.fl. 2011).
+- Når hyfenettet får lov at ligge, fordi gravning og fræsning river det i stykker (se [[No-dig og jordbearbejdning]]).
+
 ## Vand er en sideeffekt
 Planter med mykorrhiza klarer tørke bedre, men den mængde vand, der transporteres direkte gennem hyferne, er lille. Effekten skyldes mest:
 - bedre næringsforsyning, som gør planten mere stresstolerant

@@ -17,6 +17,7 @@ oprettet: 2026-11-03
 - **Majs, bønner og squash:** tre værter med forskellig roddybde i det samme svampenet.
 - **Porre eller løg med salat** i rækkerne imellem.
 - **Pas på:** Gulerod og pastinak taber konkurrencen med kløver.
+- **I no-dig:** Hvidkløver er svær at fjerne igen uden at grave. Det er ofte bedre at plante tættere og fylde huller med hurtige afgrøder som radiser. Se [[Hvidkløver#Svær at fjerne igen i no-dig]].
 
 Levende bunddække konkurrerer med afgrøden om vand og næring, så det skal etableres, når afgrøden er godt i gang.
 

@@ -11,6 +11,7 @@ Dyrkning uden at grave eller vende jorden. I stedet lægger man kompost eller an
 
 - [[No-dig og jordbearbejdning]]: hvorfor det at grave skader mykorrhiza
 - [[Kompost og jorddække]]
+- [[Hvidkløver#Svær at fjerne igen i no-dig]]: hvorfor tæt plantning ofte er bedre end levende bunddække i no-dig
 
 ## Noter
 

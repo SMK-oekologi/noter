@@ -12,7 +12,11 @@ Her samler vi noter, vi laver i forbindelse med havenetværket  [Sjællands mad-
 - [[No-dig-dyrkning|No-dig]]: dyrkning uden at grave
 - [[Kompostering|Kompost]]: at lave og bruge kompost
 - [[Vinterdække]]: at beskytte bedene over vinteren
-- [[Såkalender og klimatilpasning]]: hvornår vi sår, og hvordan vi tilpasser os et skiftende klima
+- [[Såkalender og klimatilpasning]]: hvornår vi sår, og hvordan vi tilpasser os et skiftende klima, med [[Årshjul|årshjulet]]
+
+## Planter
+
+- [[Planter|Alle planter]]: [[Vinterrug]], [[Vintervikke]], [[Honningurt]] og [[Hvidkløver]], med billeder og links til Wikipedia og Pl@ntNet
 
 ## Konservering
 

@@ -44,7 +44,7 @@ En ny note laver du med **Add file → Create new file** i den mappe, hvor den h
 
 ### Plantenoter
 
-Hver plante har et billede, det latinske navn og links til dansk Wikipedia og [Pl@ntNet](https://identify.plantnet.org/da/k-northern-europe) (Nordeuropa). Brug skabelonen [templates/Plante.md](templates/Plante.md) som udgangspunkt. Mappen `templates` vises ikke på hjemmesiden.
+Hver plante har et billede, det latinske navn og links til dansk Wikipedia og [Pl@ntNet](https://identify.plantnet.org/da/k-northern-europe) (Nordeuropa). Plantenoterne ligger i mappen `Planter`, og billederne i `Planter/billeder`. Brug skabelonen [templates/Plante.md](templates/Plante.md) som udgangspunkt, og tilføj planten til listen i `Planter/Planter.md`. Mappen `templates` vises ikke på hjemmesiden.
 
 Alt her er offentligt. Skriv ikke adresser, telefonnumre eller andet privat.
 

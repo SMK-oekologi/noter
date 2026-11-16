@@ -1,0 +1,10 @@
+# Personlige Obsidian-indstillinger deles ikke
+.obsidian/
+.trash/
+
+# macOS
+.DS_Store
+
+# Lokal forhåndsvisning
+.quartz-preview/
+public/

@@ -1,0 +1,74 @@
+name: Byg og udgiv hjemmesiden
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+env:
+  # Den version af Quartz, siden bygges med. Ret tallet for at opgradere.
+  QUARTZ_VERSION: v5.1.0
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Hent noterne
+        uses: actions/checkout@v6
+        with:
+          path: noter
+          fetch-depth: 0 # hele historikken, så "sidst ændret" bliver rigtig
+
+      - name: Hent Quartz
+        uses: actions/checkout@v6
+        with:
+          repository: jackyzha0/quartz
+          ref: ${{ env.QUARTZ_VERSION }}
+          path: quartz
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
+
+      - name: Cache npm
+        uses: actions/cache@v5
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-quartz-${{ env.QUARTZ_VERSION }}
+
+      - name: Installer Quartz
+        working-directory: quartz
+        run: |
+          npm ci
+          cp ../noter/quartz.config.yaml quartz.config.yaml
+          npx quartz plugin install
+
+      - name: Byg siden
+        working-directory: quartz
+        run: npx quartz build -d ../noter -o ../public
+
+      - name: Upload
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Udgiv på GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

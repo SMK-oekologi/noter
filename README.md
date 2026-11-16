@@ -39,7 +39,12 @@ En ny note laver du med **Add file → Create new file** i den mappe, hvor den h
   ```
 
 - En note, der ikke er klar til at blive vist, får linjen `draft: true` mellem de to `---`.
-- Billeder lægges i samme mappe som noten og indsættes med `![[billede.jpg]]`.
+- Billeder lægges i en mappe `billeder` ved siden af noten og indsættes med `![[billede.jpg|400]]`. Tallet er bredden i pixels.
+- Bruger du andres billeder, så tag dem fra [Wikimedia Commons](https://commons.wikimedia.org), og skriv fotografens navn og licensen under billedet. Det kræver licensen.
+
+### Plantenoter
+
+Hver plante har et billede, det latinske navn og links til dansk Wikipedia og [Pl@ntNet](https://identify.plantnet.org/da/k-northern-europe) (Nordeuropa). Brug skabelonen [templates/Plante.md](templates/Plante.md) som udgangspunkt. Mappen `templates` vises ikke på hjemmesiden.
 
 Alt her er offentligt. Skriv ikke adresser, telefonnumre eller andet privat.
 

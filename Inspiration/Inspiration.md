@@ -5,7 +5,7 @@ oprettet: 2026-11-16
 
 # Inspiration
 
-Websider og podcasts, som vi selv har glæde af. Tilføj gerne flere.
+Websider, podcasts og YouTube-kanaler, som vi selv har glæde af. Tilføj gerne flere.
 
 ## Websider
 
@@ -40,3 +40,15 @@ Haveeksperten Annika Sjölin fra Flyinge Plantshop og radioværten Hasse Strandb
 ### Trädgårdstrollets Trädgårdspodd
 Sorter, frøavl og jordnære råd til den passionerede dyrker, f.eks. om gamle lokale sorter, gødning og selvforsyning.
 ▶ [Lyt på Poddtoppen](https://poddtoppen.se/podcast/1549187337/tradgardstrollets-tradgardspodd) · [Trädgårdstrollets hjemmeside](https://www.tradgardstrollet.se/category/podcast/) · også på [Apple Podcasts](https://podcasts.apple.com/se/podcast/tr%C3%A4dg%C3%A5rdstrollets-tr%C3%A4dg%C3%A5rdspodd/id1549187337)
+
+## YouTube
+
+Videoer er gratis at se direkte på YouTube, uden konto.
+
+### Charles Dowding
+Engelsk gartner og foregangsmand for no-dig. Korte, praktiske videoer fra hans egen køkkenhave om kompost, såning, udplantning og høst året rundt. På engelsk.
+▶ [Se kanalen på YouTube](https://www.youtube.com/@CharlesDowding1nodig)
+
+### Havenyt
+Praktisk Økologis kanal med videoer om miljøvenlig havedyrkning. På dansk.
+▶ [Se kanalen på YouTube](https://www.youtube.com/@Havenyt)

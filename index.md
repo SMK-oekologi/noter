@@ -27,7 +27,7 @@ Her samler vi noter, vi laver i forbindelse med havenetværket  [Sjællands mad-
 
 ## Inspiration
 
-- [[Inspiration|Websider og podcasts]]: Praktisk Økologi, Havenyt, Dyrk.nu og svenske havepodcasts
+- [[Inspiration|Websider, podcasts og YouTube]]: Praktisk Økologi, Havenyt, Dyrk.nu, svenske havepodcasts og YouTube-kanaler
 
 ## Find rundt
 

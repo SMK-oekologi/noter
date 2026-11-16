@@ -42,6 +42,19 @@ En ny note laver du med **Add file → Create new file** i den mappe, hvor den h
 - Billeder lægges i en mappe `billeder` ved siden af noten og indsættes med `![[billede.jpg|400]]`. Tallet er bredden i pixels.
 - Bruger du andres billeder, så tag dem fra [Wikimedia Commons](https://commons.wikimedia.org), og skriv fotografens navn og licensen under billedet. Det kræver licensen.
 
+### Skabeloner
+
+Mappen `templates` indeholder skabeloner, som ikke vises på hjemmesiden:
+
+- [templates/Note.md](templates/Note.md) til almindelige noter: `title`, `draft`, `tags` og `oprettet`.
+- [templates/Plante.md](templates/Plante.md) til plantenoter.
+
+I Obsidian indsætter du en skabelon med kommandoen **Skabeloner: Indsæt skabelon** (Ctrl/Cmd+P). Første gang skal du under **Indstillinger → Skabeloner** sætte skabelonmappen til `templates`, fordi Obsidian-indstillinger ikke deles.
+
+### Mappeforsider
+
+En note med samme navn som sin mappe bliver mappens forside på hjemmesiden, f.eks. `Dyrkning/Mykorrhiza/Mykorrhiza.md` og `Planter/Planter.md`. Den skal linke til de andre noter i mappen. Skal forsiden have en længere titel end mappenavnet, skrives den i `title`, f.eks. `title: "Mykorrhiza i køkkenhaven"`. Brug ikke `index.md` i mapperne. Den eneste `index.md` er hjemmesidens forside.
+
 ### Plantenoter
 
 Hver plante har et billede, det latinske navn og links til dansk Wikipedia og [Pl@ntNet](https://identify.plantnet.org/da/k-northern-europe) (Nordeuropa). Plantenoterne ligger i mappen `Planter`, og billederne i `Planter/billeder`. Brug skabelonen [templates/Plante.md](templates/Plante.md) som udgangspunkt, og tilføj planten til listen i `Planter/Planter.md`. Mappen `templates` vises ikke på hjemmesiden.

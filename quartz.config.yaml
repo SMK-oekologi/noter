@@ -267,9 +267,11 @@ layout:
     content:
       exclude:
         - article-title
+    # Mappeforsider er noter med samme navn som mappen og har selv en overskrift
     folder:
       exclude:
         - reader-mode
+        - article-title
       positions:
         right: []
     tag:

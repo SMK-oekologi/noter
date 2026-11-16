@@ -1,4 +1,5 @@
 ---
+title: "Kompostering"
 tags: [kompost, dyrkning]
 oprettet: 2026-11-16
 ---

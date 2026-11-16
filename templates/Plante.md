@@ -1,6 +1,8 @@
 ---
+title: "{{title}}"
+draft: false
 tags: [planter]
-oprettet: {{date}}
+oprettet: {{date:YYYY-MM-DD}}
 ---
 
 # {{title}}

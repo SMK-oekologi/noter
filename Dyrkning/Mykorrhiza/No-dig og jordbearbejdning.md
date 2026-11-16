@@ -1,6 +1,5 @@
 ---
 tags: [no-dig, jord, mykorrhiza]
-aliases: [no-dig]
 oprettet: 2026-11-03
 ---
 

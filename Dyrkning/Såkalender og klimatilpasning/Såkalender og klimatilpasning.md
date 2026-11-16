@@ -15,5 +15,5 @@ Nye noter om emnet lægges i mappen `Dyrkning/Såkalender og klimatilpasning`, o
 
 ## Se også
 
-- [[Mykorrhiza i køkkenhaven]]
+- [[Mykorrhiza|Mykorrhiza i køkkenhaven]]
 - [[Efterafgrøder]]: hvornår de forskellige efterafgrøder sås

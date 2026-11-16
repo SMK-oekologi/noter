@@ -8,9 +8,9 @@ Her samler vi noter, vi laver i forbindelse med havenetværket  [Sjællands mad-
 
 ## Dyrkning
 
-- [[Mykorrhiza i køkkenhaven|Mykorrhiza]]: dyrkning med hensyn til jordens svampe, med no-dig og kompost som udgangspunkt
-- [[No-dig-dyrkning|No-dig]]: dyrkning uden at grave
-- [[Kompostering|Kompost]]: at lave og bruge kompost
+- [[Mykorrhiza]]: dyrkning med hensyn til jordens svampe, med no-dig og kompost som udgangspunkt
+- [[No-dig]]: dyrkning uden at grave
+- [[Kompost]]: at lave og bruge kompost
 - [[Vinterdække]]: at beskytte bedene over vinteren
 - [[Såkalender og klimatilpasning]]: hvornår vi sår, og hvordan vi tilpasser os et skiftende klima, med [[Årshjul|årshjulet]]
 

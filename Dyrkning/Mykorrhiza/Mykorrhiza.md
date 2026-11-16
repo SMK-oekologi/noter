@@ -1,6 +1,7 @@
 ---
+title: "Mykorrhiza i køkkenhaven"
 tags: [mykorrhiza, moc]
-aliases: [Mykorrhiza MOC]
+aliases: [Mykorrhiza i køkkenhaven, Mykorrhiza MOC]
 oprettet: 2026-11-03
 ---
 
